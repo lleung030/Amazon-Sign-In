@@ -49,9 +49,10 @@ h1{
     padding: 4px 60%;
     text-align: center;
     display: inline-block;
-    font-size: 14px;
+    font-size: 17px;
     cursor: pointer;
     border: 1px solid #e5bb16;
+    width: 95%;
 }
 
 ul li::before{
